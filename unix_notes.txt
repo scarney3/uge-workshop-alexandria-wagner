@@ -1,0 +1,17 @@
+    1  subl.exe  <--- opens Sublime Text from the console
+    4  pwd  <--- shows current position within the console
+    6  ls  <--- list command
+    7  ls -t  <--- list with time details
+    8  ls -l  <--- list with long details
+   12  ls --help  <--- general help command for Windows console
+   13  cd /Users/Alex  <--- home directory
+   21  cd ..  <--- move one directory up
+   29  cd  <--- change directory command, returns your path to home directory
+   40  history  <--- displays your command history
+   44  history | less  <--- displays your command history in a more digestible way
+   45  history | less  <--- 'enter' for an additional history entry, 'space' for an additional page
+   46  history > moving_around.txt  <--- creates a new text file with the output from the history command
+
+Hidden files can be accessed with .git notation.
+
+Do not initialize a Git repository from your home directory. This is bad. Don't do it.
