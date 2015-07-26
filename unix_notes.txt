@@ -15,3 +15,4 @@
 Hidden files can be accessed with .git notation.
 
 Do not initialize a Git repository from your home directory. This is bad. Don't do it.
+Edit**
